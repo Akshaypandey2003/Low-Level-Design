@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="549804db-b238-4079-a2b4-ae561655ad1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/PlayerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/GameStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/Symbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameManagement/BoardFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameManagement/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameManagement/GameBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameManagement/GameBoardFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameManagement/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameManagement/Symbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observer/InAppNotificationObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/DefaultWinStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy/WinStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User_Management/GenderEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User_Management/PersonalDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User_Management/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User_Management/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="3E2cmjKPApcW8K2KPMLtemogVyg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="549804db-b238-4079-a2b4-ae561655ad1a" name="Changes" comment="" />
+      <created>1779380267623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779380267623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
